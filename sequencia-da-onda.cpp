@@ -20,8 +20,7 @@ int main() {
 
   int m; cin >> m;
 
-  vector<int> v(m);
-  vector<int> u(m);
+  vector<int> v(m), u(m);
 
   for (int i = 0; i < m; i++) cin >> v[i];
   for (int i = 0; i < m; i++) u[i] = v[m - 1 - i];
