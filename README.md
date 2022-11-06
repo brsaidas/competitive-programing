@@ -1,4 +1,4 @@
-# 💪 competitive-programing
+# 🏆 competitive-programing
 Source code of computer problems from several online judges
 
 ## 😄 maratona-reginal-2022
