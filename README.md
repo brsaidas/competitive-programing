@@ -8,4 +8,4 @@ Contains the problems of the SBC Regional Stage Programming Marathon 2022. Also 
 
 ## 📚 Notebook
 
-<img src="img/img1.jpg"/>
+<img src="24-notebook-06-10-2022.pdf"/>
